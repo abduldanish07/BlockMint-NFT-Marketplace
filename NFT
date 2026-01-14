@@ -1,0 +1,1 @@
+When users stake small amounts, the reward calculation returns zero. This might be due to integer division. The logic should be reviewed to support fractional rewards.
